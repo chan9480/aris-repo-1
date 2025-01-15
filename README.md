@@ -2,7 +2,6 @@
 
 ## HOW TO START
 
-
 ### Git 로컬 설정
 
 * git 설정 진행
@@ -14,7 +13,6 @@
 * 설정 확인
 
 `git config --list`
-
 
 ### Git 로그인 설정
 
@@ -45,5 +43,3 @@
 * 리모트 설정
 
 `git remote set-url origin git@github.com:addinedu-advance-3rd/aris-repo-1.git`
-
-
